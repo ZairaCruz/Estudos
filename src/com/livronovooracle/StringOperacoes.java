@@ -7,7 +7,7 @@ public class StringOperacoes {
 		String str2 = new String(str1);
 		String str3 = "Java string são poderosos.";
 		int resultado, idx;
-		char ch;
+
 		
 		System.out.println("Length of str1: " + str1.length());
 		
